@@ -1,0 +1,5 @@
+{
+  "name": "ZhiYu Fishing Journal",
+  "description": "A professional-grade fishing journal application designed with a modular architecture for seamless migration between Web and WeChat Mini Program platforms.",
+  "requestFramePermissions": []
+}
